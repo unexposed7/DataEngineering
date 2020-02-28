@@ -1,0 +1,45 @@
+,Attribute,Type,Domain,Description
+0,Id,Type(Id),Type(Id),An Id which is also the key to the table MyData
+1,Feature_FA,<class 'str'>,"          0
+0      FA-1
+1      FA-2
+2      FA-3
+3      FA-4
+4      FA-5
+..      ...
+895  FA-896
+896  FA-897
+897  FA-898
+898  FA-899
+899  FA-900
+
+[900 rows x 1 columns]",A feature.
+2,Feature_FB,<class 'str'>,"          0
+0      FB-1
+1      FB-2
+2      FB-3
+3      FB-4
+4      FB-5
+..      ...
+461  FB-462
+462  FB-463
+463  FB-464
+464  FB-465
+465  FB-466
+
+[466 rows x 1 columns]",A feature.
+3,Feature_FC,<class 'str'>,"          0
+0      FC-1
+1      FC-2
+2      FC-3
+3      FC-4
+4      FC-5
+..      ...
+450  FC-451
+451  FC-452
+452  FC-453
+453  FC-454
+454  FC-455
+
+[455 rows x 1 columns]",A feature.
+4,N,<class 'int'>,N>=0,"An extensive quantity such as count, lenth, volume..."
